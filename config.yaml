@@ -1,0 +1,13 @@
+sentinel_triage:
+  agent_id: "d2af3630-b726-4b50-8e8c-93effae4c287"
+  api_key: "band_a_1781852320_LjWkdSdsDS2mZnSjhRQ6G0wMsRjsNSre"
+
+threat_intel:
+  agent_id: "bc231b74-3f0a-4f8c-a31c-28be8dbe6742"
+  api_key: "band_a_1781855528_Upq9OkHIKxDjSO_uysXzN-MBi6oRc4T"
+
+response_agent:
+  agent_id: "cc62b920-4ea8-44e4-8dce-6c62c12c70b4"
+  api_key: "band_a_1781855764_FrEexEKxkzuFdNPaAg0yZt2F_1tp68ZT"
+
+    

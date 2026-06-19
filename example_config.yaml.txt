@@ -1,0 +1,13 @@
+sentinel_triage:
+  agent_id: "ID_HERE"
+  api_key: "API_KEY_HERE"
+
+threat_intel:
+  agent_id: "ID_HERE"
+  api_key: "ID_HERE"
+
+response_agent:
+  agent_id: "ID_HERE"
+  api_key: "API_KEY_HERE"
+
+    
